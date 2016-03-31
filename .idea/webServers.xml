@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="27308b29-e0c4-4b7d-ba9c-034116a6d982" name="zachleyba.com" url="http://zachleyba.com/">
+        <fileTransfer host="zachleyba.com" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home1/zachleyb/public_html" accessType="SFTP" username="zachleyb" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
