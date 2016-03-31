@@ -78,6 +78,13 @@ header {
 	float: right;
 }
 
+.profile {
+	float: left;
+	max-width: 375px;
+	max-height: 375px;
+	padding: 0 10px 10px;
+}
+
 @supports (position: sticky) {
 	body {
 		padding-top: 0;

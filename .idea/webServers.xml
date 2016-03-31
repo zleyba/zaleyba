@@ -3,7 +3,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="27308b29-e0c4-4b7d-ba9c-034116a6d982" name="zachleyba.com" url="http://zachleyba.com/">
-        <fileTransfer host="zachleyba.com" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home1/zachleyb/public_html" accessType="SFTP" username="zachleyb" keyPair="true">
+        <fileTransfer host="zachleyba.com" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home1/zachleyb/public_html" accessType="SFTP" passphrase="df92dfd2dfd2df9fdf9ddfdbdfd3dfc9" username="zachleyb" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
