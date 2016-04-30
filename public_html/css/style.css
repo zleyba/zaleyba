@@ -293,7 +293,6 @@ span.icon-bar {
 }
 
 .jumbotron {
-	background-image: url('../img/workbanner.jpg');
 	background-repeat: no-repeat;
 	background-position: center;
 	padding-top: 130px;
@@ -305,6 +304,16 @@ span.icon-bar {
 	background-color: #5e5e5e;
 	font-style: normal;
 }
+
+.homebanner {
+	background-image: url('../img/homebanner.jpg')
+}
+
+.workbanner {
+	background-image: url('../img/workbanner.jpg');
+}
+
+
 
 
 
@@ -424,12 +433,18 @@ span.icon-bar {
 	}
 
 	.jumbotron {
-		background-image: url('../img/workbannermobile.jpg');
 		padding-top: 30px;
 		padding-bottom: 30px;
 
 	}
 
+.homebanner {
+	background-image: url('../img/homebannermobile.jpg');
+}
+
+.workbanner {
+	background-image: url('../img/workbannermobile.jpg');
+}
 
 }
 

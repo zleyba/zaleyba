@@ -42,12 +42,12 @@
 
 
 			<main>
-				<div class="jumbotron">
+				<div class="jumbotron workbanner">
 					<div class="container">
 						<h1><em>Portfolio</em></h1>
 						<p><em>Here is a sample of work from the recent past<br>
 								and some of the projects that I still work on</em></p>
-						<p><a class="btn btn-primary btn-lg" href="#" role="button">My Behance</a></p>
+						<p><a class="btn btn-primary btn-lg" href="#" role="button">Contact Me Now</a></p>
 					</div>
 				</div>
 
