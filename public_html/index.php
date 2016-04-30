@@ -32,7 +32,7 @@
 		<!--main style sheet-->
 		<link rel="stylesheet" href="css/style.css" />
 
-		<title>The Personal Website of Illustrator Kelly Williams</title>
+		<title>ZA.LEYBA - DIGITAL COMMUNICATIONS</title>
 
 	</head>
 	<body class="sfooter">

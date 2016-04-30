@@ -24,6 +24,7 @@ html {
 
 main {
 	margin-top: 180px;
+	margin-bottom: 75px;
 
 }
 
@@ -119,7 +120,7 @@ header {
 }
 
 .navbar .title {
-	font-family: "impact", serif;
+	font-family: "impact", sans-serif;
 	text-align: center;
 	opacity: 1;
 	font-size: 5em;
@@ -172,7 +173,7 @@ header {
 
 .navbar .ptitle {
 
-	font-family: "impact", serif;
+	font-family: "impact", sans-serif;
 	font-size: 0;
 	float: left;
 	text-align: left;
@@ -186,6 +187,10 @@ header {
 	-ms-transform: skewX(-15deg);
 	-o-transform: skewX(-15deg);
 	transform: skewX(-15deg);
+}
+
+.navbar-collapse {
+	background-color: rgba(101, 101, 101, 0.8);
 }
 
 .navbar .logo img {
@@ -244,6 +249,14 @@ header {
 
 }
 
+.scrolled.navbar .navbar-collapse {
+	background-color: transparent;
+}
+
+.scrolled.navbar button.navbar-toggle {
+	background-color: transparent;
+}
+
 
 /* footer css*/
 
@@ -264,7 +277,7 @@ button.navbar-toggle {
 	margin-top: 8px;
 	margin-right: 15px;
 	margin-bottom: 8px;
-	background-color: transparent;
+	background-color: #eaeaea;
 	background-image: none;
 	border: 1px solid #747474;
 	border-radius: 4px;
@@ -273,6 +286,20 @@ button.navbar-toggle {
 
 span.icon-bar {
 	background-color: #494949;
+}
+
+.jumbotron {
+	background-image: url('../img/workbanner.jpg');
+	background-repeat: no-repeat;
+	background-position: center;
+	padding-top: 130px;
+	padding-bottom: 130px;
+	color: #9ff7e6;
+}
+
+.jumbotron em {
+	background-color: #5e5e5e;
+	font-style: normal;
 }
 
 
@@ -306,6 +333,23 @@ span.icon-bar {
 		background-color: rgba(255, 255, 255, 0.9);
 	}
 
+	.navbar .title h1 {
+		font-size: 55px;
+	}
+
+
+	.scrolled.navbar .title h1 {
+		font-size: 0px;
+	}
+
+	.profile {
+		max-width: 275px;
+		max-height: 275px;
+		border-radius: 175px;
+		border: 4px solid #8fe0cd;
+		padding: 0 0;
+
+	}
 
 
 	/* controls css for outbound social media links */
@@ -372,6 +416,13 @@ span.icon-bar {
 		background-color: white;
 		float: none;
 		margin-top: 0;
+
+	}
+
+	.jumbotron {
+		background-image: url('../img/workbannermobile.jpg');
+		padding-top: 30px;
+		padding-bottom: 30px;
 
 	}
 
