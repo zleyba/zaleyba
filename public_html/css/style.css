@@ -288,6 +288,10 @@ span.icon-bar {
 	background-color: #494949;
 }
 
+.thumbnail {
+	height: 490px;
+}
+
 .jumbotron {
 	background-image: url('../img/workbanner.jpg');
 	background-repeat: no-repeat;

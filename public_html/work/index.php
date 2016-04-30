@@ -54,22 +54,42 @@
 				<div class="container" id="box-container">
 
 					<div class="row">
+						<div class="clearfix">
 						<div class="col-sm-6 col-md-4">
 							<div class="thumbnail">
 								<img src="../img/nmismscreen.jpg" alt="NMism.com Mockup">
 								<div class="caption">
 									<h3>NMism.com (WIP)</h3>
 									<p>
-										<ul>
-											<li>New Mexican Fighting Game Community </li>
-											<li>From scratch WordPress Theme build </li>
-											<li>Designed from the ground up for the long term needs of the community</li>
+									<ul>
+										<li>New Mexican Fighting Game Community </li>
+										<li>From scratch WordPress Theme build </li>
+										<li>Designed from the ground up for the</li>
+
 
 										</ul>
 									</p>
 								</div>
 							</div>
 						</div>
+
+						<div class="col-sm-6 col-md-4">
+							<div class="thumbnail">
+								<img src="../img/kellehfishscreen.png" alt="NMism.com Mockup">
+								<div class="caption">
+									<h3>KellehFish.net</h3>
+									<p>
+										<ul>
+											<li>Personal website of artist/illustrator/graphic designer Kelly Williams</li>
+											<li>First completed website</li>
+											<li>Designed as a minimalist approach to showing Kelly's work</li>
+
+									</ul>
+									</p>
+								</div>
+							</div>
+						</div>
+					</div>
 					</div>
 
 				</div>
