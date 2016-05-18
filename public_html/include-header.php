@@ -21,7 +21,7 @@
 					<li class="item"><a href="../index.php">about</a></li>
 					<li class="item"><a href="../work/index.php">work</a></li>
 					<li class="item"><a href="contact/index.php">contact</a></li>
-					<li class="item"><a href="#" target="_blank">gallery</a></li>
+					<li class="item"><a href="../gallery/index.php">gallery</a></li>
 					<li class="item">  <a class="iglogo" href="https://www.instagram.com/mtvzach/"></a> </li>
 
 				</ul>
